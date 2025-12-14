@@ -1,5 +1,4 @@
-# SwiftLoc
-
+# LintKit
 **Automated Localization Extraction & Validation Engine for Swift**
 
 SwiftLoc is a hybrid Swift + Bash CLI tool that automates the extraction, generation, and validation of localization files in Swift projects. It generates Apple-compliant XLIFF 1.2 files and catches translation errors before they cause runtime crashes.
